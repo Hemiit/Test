@@ -4,11 +4,8 @@ This sfsf  is 2.
 This is 3.
 After merged branch03 with branch02.
 123
-<<<<<<< HEAD
 here we go,88888
-=======
 here 234234we go,123
->>>>>>> branch03
 Insert this line.
 Encounter
 You can do it.
