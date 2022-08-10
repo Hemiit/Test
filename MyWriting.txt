@@ -1,11 +1,4 @@
 Main.
-This 222 is 1.
-This sfsf  is 2.
-This 999 is 3.
-After merged branch03 with branch02.
-123
-here we go,88888
-here 234234we go,123
-Insert this line.
-Encounter
-You can do it.
+This is 1.
+This is 2.
+This is 3.
