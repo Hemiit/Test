@@ -1,2 +1,6 @@
 sfsf
+<<<<<<< HEAD
 In the context of software.
+=======
+你好。
+>>>>>>> 272ebc75b6333ac628a28f83ab550f60251bc517
